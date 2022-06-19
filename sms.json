@@ -1,0 +1,12 @@
+{
+    "messages": {
+        "recipient": "+998977059576",
+        "message-id": "makro",
+        "sms": {
+            "originator": "Makro",
+            "content": {
+                "text": "glo glo glo"
+            }
+        }
+    }
+}
